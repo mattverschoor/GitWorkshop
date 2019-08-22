@@ -2,11 +2,11 @@
 
 To complete this assignment, edit this README by doing the following, 
 
-- Indicate your first and last name
-- Share 2 or 3 things about yourself
-- Indiate your goal(s) you have for this course
+- Matt Verschoor
+- I play tennis, I like to fish, I like to play video games 
+- I want to gain enough skills to get a summer internship for computer science 
 
 Once your are done, save this file.
 
 Test
-sslkadfj;adfjalkdfjaskdjfasdlkfjaslkdfjasdfj;alksd
+
